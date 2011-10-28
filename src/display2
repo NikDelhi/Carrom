@@ -1,0 +1,13 @@
+#include <GL/glut.h>
+#include <math.h>
+#include <iostream>
+#include <stdio.h>
+#include <queue>
+#include <string.h>
+#include "networking.h"
+#include "dispList.h"
+#include "physics.h"
+#include "header.h"
+#include "imageloader.h"
+
+
